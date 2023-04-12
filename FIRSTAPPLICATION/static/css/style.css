@@ -1,0 +1,22 @@
+
+body {
+    background-color: #FFE5B4;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    color: #363;
+    font-size: 32px;
+}
+
+p {
+    color: rgb(40, 152, 154);
+    line-height: 1.5;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
